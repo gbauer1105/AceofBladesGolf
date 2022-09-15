@@ -1,9 +1,7 @@
-# golfps
-An open source golf gps app! Own the course!
+# golfps+booking+lesson+handicap
+I am attempting to create an all in one mobile application that will encompass booking a tee time, scheduling a lessong with a professional, using GPS during your round of golf and tracking your scores to provide a USGA Handicap.
 
-Far from complete but it is live in the Play Store. There is also an iOS app already created and live in the App Store.
-This app will eventually include support for Android Wear and iOS watch as well.
+Far from complete, I have only been able to start with the initial content and build of the GPS functionality
+This app will eventually include support for iOS as well.
 
-Hopefully there will be enough personal motivation to add swing tracking based on the sensors in the watch or perhaps through an external device.
-
-Feel free to request features. That is why I started making this... All the golf apps I could find didn't have exactly what I was looking for or their bugs took too long to fix...
+Please feel free to provide me with any feedback for the development as well as the look and feel of the UI.
